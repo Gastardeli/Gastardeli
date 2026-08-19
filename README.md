@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Gastardeli 👋</h1>
+<h1 align="center">Olá, eu sou o Victor Gastardeli 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Desenvolvedor+em+constante+evolu%C3%A7%C3%A3o;Apaixonado+por+c%C3%B3digo+e+aprendizado;Seja+bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
@@ -48,6 +48,9 @@
 <p align="left">
   <a href="https://github.com/Gastardeli">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
